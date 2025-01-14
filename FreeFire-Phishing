@@ -1088,12 +1088,12 @@ echo ""
 			   server
 			   select_url
 			   
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt
+                           tail -f OnlineHacking.txt
                            msg_exit
 
 
@@ -1106,12 +1106,12 @@ echo ""
 			   server
 			   select_url
                            
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt
+                           tail -f OnlineHacking.txt
                            msg_exit
 
 
@@ -1125,12 +1125,12 @@ echo ""
 			   server
 			   select_url
 
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt 
+                           tail -f OnlineHacking.txt 
                            msg_exit
  
                   
@@ -1144,12 +1144,12 @@ echo ""
 			   select_url
                            
                            
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt
+                           tail -f OnlineHacking.txt
                   msg_exit
                
 	       
@@ -1164,12 +1164,12 @@ echo ""
 			   server
 			   select_url
                            
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt
+                           tail -f OnlineHacking.txt
                   msg_exit
 		  
                  break;
@@ -1182,12 +1182,12 @@ echo ""
 			   server
 			   select_url
                            
-                           if [[ -e sandeeptech.txt ]]; then
+                           if [[ -e OnlineHacking.txt ]]; then
                            > log.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt 
+                           tail -f OnlineHacking.txt 
                   msg_exit
 		  
                 break;
@@ -1199,12 +1199,12 @@ echo ""
 			   server
 			   select_url
                            
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt
+                           tail -f OnlineHacking.txt
 msg_exit
 
                   break;
@@ -1216,12 +1216,12 @@ msg_exit
 			   server
 			   select_url
                            
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt
+                           tail -f OnlineHacking.txt
 msg_exit
 
                   break;   
@@ -1234,12 +1234,12 @@ elif [ $option = 09 ] || [ $option = 9 ]
 			   server
 			   select_url
                            
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt
+                           tail -f OnlineHacking.txt
 msg_exit
 
                   break;		  
@@ -1251,12 +1251,12 @@ elif [ $option = 10 ] || [ $option = 010 ]
 			   server
 			   select_url
                            
-                           if [[ -e sandeeptech.txt ]]; then
-                           > sandeeptech.txt
+                           if [[ -e OnlineHacking.txt ]]; then
+                           > OnlineHacking.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f sandeeptech.txt
+                           tail -f OnlineHacking.txt
 msg_exit
 
                   break;		  
