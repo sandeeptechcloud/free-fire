@@ -987,7 +987,6 @@ clear
 
 echo -e $'' 
 clear
-logo1
 logo_text
 echo ""
                  echo -e $''   
