@@ -1263,8 +1263,7 @@ elif [ $option = 09 ] || [ $option = 9 ]
                            echo ""
                            tail -f sandeeptech.txt
 msg_exit
-
-                  break;		  
+		  
 elif [ $option = 10 ] || [ $option = 010 ]
 	          then
 	                   cd_home
@@ -1310,4 +1309,3 @@ elif [ $option = 50 ] || [ $option = 050 ]
 		         sleep 2
                          exit
 		         fi
-                         done
