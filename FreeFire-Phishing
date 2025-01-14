@@ -659,34 +659,51 @@ SCRIPT CREATED BY ◤ S░A░N░D░E░E░P T░E░C░H ◢, \e[95;1m \e[0
 
 ## LOGO 2
 logo_text() {
-echo -e "\e[1;96m< < < ====================================================== > > >\e[m "
-printf " \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m " 
-echo " "
-printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44m Game Kharido \e[0m  \e[95m[\e[32mPro\e[95m]\e[0m     \e[1;31m[\e[0m\e[1;92m06\e[0m\e[1;31m] \e[0m\e[1;91;107m Skin \e[0m  \e[95m[\e[93mNew\e[95m]\e[0m "
-echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"     
-echo
-printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41m Gift Center \e[0m      \e[1;31m[\e[0m\e[1;92m07\e[0m\e[1;31m] \e[0m\e[1;34;103m Spin \e[0m  \e[95m[\e[93mNew\e[95m]\e[0m "
-echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
-echo
-printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;91;107m Magic Reward \e[0m      \e[1;31m[\e[0m\e[1;92m08\e[0m\e[1;31m] \e[0m\e[1;37;41m Diamond \e[0m  \e[95m[\e[93mNew\e[95m]\e[0m "
-echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
-echo
-printf "\e[1;31m[\e[0m\e[1;92m04\e[0m\e[1;31m] \e[0m\e[1;34;103m Redemption Code \e[0m         \e[1;31m[\e[0m\e[1;92m09\e[0m\e[1;31m] \e[0m\e[1;91;102m WhatsApp Invite \e[0m  "
-echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
-echo
-printf "\e[1;31m[\e[0m\e[1;92m05\e[0m\e[1;31m] \e[0m\e[1;48;5;21m Diamond Buy \e[0m   \e[1;31m[\e[0m\e[1;92m10\e[0m\e[1;31m] \e[0m\e[1;48;5;200m All in One \e[0m  "
-echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"   
-echo
-printf "\e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;33mExit\e[0m                      \e[1;31m[\e[0m\e[1;92m50\e[0m\e[1;31m] \e[0m\e[1;33mAbout\e[0m\n"
-echo " "
-echo -e "\e[1;96m< < < ====================================================== > > >\e[m "
-echo ""
+    echo -e "\e[1;96m< < < ====================================================== > > >\e[m "
+    printf " \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m "
+    echo " "
+    
+    # Left side (1-5)
+    printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44m Game Kharido \e[0m  \e[95m[\e[32mPro\e[95m]\e[0m     "
+    # Right side (6-10)
+    printf " \e[1;31m[\e[0m\e[1;92m06\e[0m\e[1;31m] \e[0m\e[1;91;107m Skin \e[0m  \e[95m[\e[93mNew\e[95m]\e[0m\n"
+    
+    echo
+    # Left side (2-6)
+    printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41m Gift Center \e[0m      "
+    # Right side (7-11)
+    printf " \e[1;31m[\e[0m\e[1;92m07\e[0m\e[1;31m] \e[0m\e[1;34;103m Spin \e[0m  \e[95m[\e[93mNew\e[95m]\e[0m\n"
+    
+    echo
+    # Left side (3-7)
+    printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;91;107m Magic Reward \e[0m      "
+    # Right side (8-12)
+    printf " \e[1;31m[\e[0m\e[1;92m08\e[0m\e[1;31m] \e[0m\e[1;37;41m Diamond \e[0m  \e[95m[\e[93mNew\e[95m]\e[0m\n"
+    
+    echo
+    # Left side (4-8)
+    printf "\e[1;31m[\e[0m\e[1;92m04\e[0m\e[1;31m] \e[0m\e[1;34;103m Redemption Code \e[0m         "
+    # Right side (9-13)
+    printf " \e[1;31m[\e[0m\e[1;92m09\e[0m\e[1;31m] \e[0m\e[1;91;102m WhatsApp Invite \e[0m\n"
+    
+    echo
+    # Left side (5-9)
+    printf "\e[1;31m[\e[0m\e[1;92m05\e[0m\e[1;31m] \e[0m\e[1;48;5;21m Diamond Buy \e[0m   "
+    # Right side (10-14)
+    printf " \e[1;31m[\e[0m\e[1;92m10\e[0m\e[1;31m] \e[0m\e[1;48;5;200m All in One \e[0m\n"
+    
+    echo
+    printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
+    echo
+    # Left side (99) Exit and Right side (50) About
+    printf "\e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;33mExit\e[0m                      "
+    printf "\e[1;31m[\e[0m\e[1;92m50\e[0m\e[1;31m] \e[0m\e[1;33mAbout\e[0m\n"
+    echo " "
+    
+    echo -e "\e[1;96m< < < ====================================================== > > >\e[m "
+    echo ""
 }
+
 
 
 logo3() {
