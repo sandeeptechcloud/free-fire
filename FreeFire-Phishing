@@ -635,16 +635,17 @@ echo -e "\e[95m
 ⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⠀⠀⠉⠉⠙⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠁⠛⠛⠛⠛⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁ \e[95;1m \e[0m\n"
   echo""    
-  echo -e $'\e[1;33m\e[0m\e[1;31m  ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[1;32m\e[0m\e[1;33m FREE FIRE PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.8] \e[0m'                                       
+  echo -e $'\e[1;33m\e[0m\e[1;31m  ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[1;32m\e[0m\e[1;33m \e[0m'  # Removed the "FREE FIRE PHISHING TOOL" part
+echo -e '\e[1;37m\e[0m FREE FIRE HACKING TOOL'                                       
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m        [\e[0m\e[1;32m Website :- \e[36mhttps://sandeeptech.com \e[0m\e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
-      echo -e $'\e[1;37m\e[0m\e[1;37m         +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m'
+      echo -e $'\e[1;37m\e[0m\e[1;37m          +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m'
       echo -e "\e[93m             |S|A|N|D|E|E|P| |T|E|C|H|"      
-      echo -e $'\e[1;37m\e[0m\e[1;37m         +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m' 
-      echo -e $'\e[1;37m\e[0m\e[1;37m              +-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[95m                   |H|A|C|K|E|R|"      
-      echo -e $'\e[1;37m\e[0m\e[1;37m              +-+-+-+-+-+ >>\e[0m' 
+      echo -e $'\e[1;37m\e[0m\e[1;37m          +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m' 
+      echo -e $'\e[1;37m\e[0m\e[1;37m                   +-+-+-+-+-+ >>\e[0m'
+      echo -e "\e[95m                    |H|A|C|K|E|R|"      
+      echo -e $'\e[1;37m\e[0m\e[1;37m                   +-+-+-+-+-+ >>\e[0m' 
       echo ""                                                
       }
       banner
@@ -676,7 +677,7 @@ printf "\e[1;31m[\e[0m\e[1;92m05\e[0m\e[1;31m] \e[0m\e[1;48;5;21m Diamond Buy \e
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"   
 echo
-printf "\e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;33mExit\e[0m                         \e[1;31m[\e[0m\e[1;92m50\e[0m\e[1;31m] \e[0m\e[1;33mAbout\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;33mExit\e[0m                        \e[1;31m[\e[0m\e[1;92m50\e[0m\e[1;31m] \e[0m\e[1;33mAbout\e[0m\n"
 echo " "
 echo -e "\e[1;96m< < < ====================================================== > > >\e[m "
 echo ""
